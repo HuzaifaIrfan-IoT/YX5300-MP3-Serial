@@ -1,0 +1,13 @@
+[project]
+name = "yx5300-mp3-serial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "HuzaifaIrfan", email = "huzaifairfan2001@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pyserial>=3.5",
+]
+
